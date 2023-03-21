@@ -15,11 +15,6 @@ Ubuntu 14.04 LTS via Vagrant in VirtualBox and compiled with GCC version 4.8.4
 
 ## Instructions
 
-### Resources:books:
-Read or watch:
-* [Google](https://intranet.hbtn.io/rltoken/56-bDz7IrFgcH02EkGkB3w)
-* [Create dynamic libraries on Linux](https://intranet.hbtn.io/rltoken/9neX6gaN6DoA-ow1INgZqw)
-
 
 ### Learning Objectives:bulb:
 What you should learn from this project:
@@ -184,9 +179,3 @@ Monty Files:
 -   Implement the rotr opcode.
 -   The rotr opcode
 -   The opcode rotr rotates the stack to the bottom.
-
-## Autors
-
-* **Samuel Martinez** - [samuelsrmv](https://github.com/samuelsrmv)
-
-* **Jordan Buitrago Sandoval** - [drc288](https://github.com/drc288)
