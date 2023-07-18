@@ -20,7 +20,7 @@ Ubuntu 14.04 LTS via Vagrant in VirtualBox and compiled with GCC version 4.8.4
 What you should learn from this project:
 
 * What do LIFO and FIFO mean
-* What is a stack, and when to use it
+* What is a stack and when to use it
 * What is a queue, and when to use it
 * What are the common implementations of stacks and queues
 * What are the most common use cases of stacks and queues
@@ -179,3 +179,4 @@ Monty Files:
 -   Implement the rotr opcode.
 -   The rotr opcode
 -   The opcode rotr rotates the stack to the bottom.
+c is fun
